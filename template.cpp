@@ -20,8 +20,8 @@ const ll inf64 = 1e18;
 
 int main() {
 	ios::sync_with_stdio(false);
-  cin.tie(0);
-  int tt;
-  cin >> tt;
-  
+	cin.tie(0);
+	int tt;
+  	cin >> tt;
+	
 } 
