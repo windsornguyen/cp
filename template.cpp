@@ -1,10 +1,10 @@
 #pragma GCC optimize("Ofast")
 #pragma GCC optimize("unroll-loops")
 #include <bits/stdc++.h>
+using namespace std;
 typedef long long ll;
 typedef vector<int> vi; // int vector
 typedef pair<int,int> pi; // int pair
-using namespace std;
 using ll = long long;
 using ui = unsigned int;
 using ull = unsigned long long;
