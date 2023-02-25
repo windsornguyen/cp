@@ -1,21 +1,17 @@
 #pragma GCC optimize("Ofast")
 #pragma GCC optimize("unroll-loops")
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
 using namespace std;
 typedef long long ll;
-typedef vector<int> vi; // int vector
-typedef pair<int,int> pi; // int pair
-using ll = long long;
-using ui = unsigned int;
-using ull = unsigned long long;
-using ld = long double;
-using pii = pair<int, int>;
-using pll = pair<long long, long long>;
+typedef vector<int> vi;
+typedef pair<int,int> pi;
 const int inf = 1e9;
 const ll inf64 = 1e18;
 #define F first
 #define S second
-#define back push_back
+#define pb push_back
 #define mp make_pair
 
 int main() {
